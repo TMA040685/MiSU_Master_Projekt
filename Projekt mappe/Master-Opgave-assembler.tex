@@ -1,7 +1,62 @@
-\documentclass[a4paper, twoside, openright]{article}
+\documentclass[a4paper,12pt,  twoside, openright,draft]{memoir}
 
 
+% INPUT PACKAGES %
+\usepackage[utf8]{inputenc}						% INPUT FORMATERING SOM SIKRE AT VI KAN SKRIVE Æ,Ø og Å
+\usepackage[danish]{babel}						% PÅBEGYNDER DANSK ORDDELING
+\renewcommand{\danishhyphenmins}{22}				% BEDRE DANSK ORDDELING
+\usepackage[T1]{fontenc}						% PÆNERE DANSK FONT ENKODNING
+%\usepackage{fontspec}							% Special fonts
+%\setmainfont{Arial} 							% Sæt skrift typen til Source Sans Pro
 
+% ASSISTING PACKAGES %
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks = true,
+	citecolor = blue}
+\usepackage[nopar]{lipsum}						% GENERER FYLDTEKST
+\usepackage{showkeys}							% SHOWS THE LABELS OF FIGURES, TABLES, ETC...
+\usepackage{graphicx}							% DISPLAY GRAPHICS ETC.
+\usepackage{smartdiagram}						% NEMMEDIAGRAMMER
+\usepackage[natbibapa]{apacite}					% APACITE AND NATBIB
+\bibliographystyle{apacite}						% ACTIVATE APACITE
+\usepackage[danish]{varioref}						% VARIATIONS IN REFERENCES
+\usepackage{fixme}
+
+
+% PAGE SETUP REMARKS %
+\setlrmarginsandblock{*}{3.5cm}{0.75}					% HØJRE OG VENSTRE
+\setulmarginsandblock{3cm}{*}{1.2}					% TOP OG BUND
+\checkandfixthelayout[nearest]						% SPECIFIKT VALG AF HØJDE ALGORITME
+
+% STYLING THE CHAPTER %
+\chapterstyle{madsen}
+
+% PAGE HEADER AND FOOTER %
+\makepagestyle {TMArules}
+\makeheadrule   {TMArules}{\textwidth}{\normalrulethickness}
+\makefootrule    {TMArules}{\textwidth}{\normalrulethickness}{\footruleskip}
+\makeevenhead {TMArules}{}{}{\small\itshape\leftmark}
+\makeoddhead   {TMArules}{\small\itshape\rightmark}{}{}
+\makeevenfoot   {TMArules}{}{}{\small \bfseries\thepage}
+\makeoddfoot    {TMArules}{\small \bfseries\thepage} {}{}
+\makeatletter % because of \"chapapp
+\makepsmarks {TMArules}{
+\nouppercaseheads
+\createmark {chapter} {both} {shownumber}{\@chapapp\ }{. \ }
+\createmark {section} {right}{shownumber}{} {. \ }
+\createmark {subsection} {right}{shownumber}{} {. \ }
+\createmark {subsubsection}{right}{shownumber}{} {. \ }
+\createplainmark {toc} {both} {\contentsname}
+\createplainmark {lof} {both} {\listfigurename}
+\createplainmark {lot} {both} {\listtablename}
+\createplainmark {bib} {both} {\bibname}
+\createplainmark {index} {both} {\indexname}
+\createplainmark {glossary} {both} {\glossaryname}
+}
+\makeatother
+\setsecnumdepth{subsubsection}
+\pagestyle{TMArules}
 
 \title{Test dokument\ldots}
 \author{Thomas M. Amby}
@@ -10,4 +65,24 @@
 
 \maketitle
 
+% --------- FRONTMATTER --------- %
+\frontmatter
+\tableofcontents
+
+% -------- MAINMATTER -----------%
+ \mainmatter
+
+
+\include{Afsnit/Kapitel1}
+\include{Afsnit/Kapitel2}
+\include{Afsnit/Kapitel3}
+\include{Afsnit/Kapitel4}
+\include{Afsnit/Kapitel5}
+\include{Afsnit/Kapitel6}
+\include{Afsnit/Kapitel7}
+
+% -------- BACKMATTER ---------- %
+\backmatter
+\nocite{*}
+\bibliography{Bibliografi/SWH}
 \end{document}

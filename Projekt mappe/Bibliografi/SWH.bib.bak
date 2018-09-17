@@ -69,6 +69,7 @@
   pages     = {2310--2314},
   month     = jan,
   doi       = {10.1016/j.sbspro.2010.03.327},
+  file      = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Erkol2010.pdf:PDF},
   publisher = {Elsevier {BV}},
 }
 
@@ -97,6 +98,7 @@
   month     = {jan},
   abstract  = {The purpose of this study is to explore the effect of Writing-to-Learn (WTL) strategy on undergraduates’ conceptual understanding of electrostatics. The sample of the study was 54 university students registered at elementary school mathematics education department. While the experimental group was asked to conduct WTL activities like explanatory writing, the teachers in the control group carried on their classes with traditional methods like questioning. Conceptual discussions were made during the instruction in both groups. The data of the study were gathered by Electrostatics Conceptual Test. The data were analyzed both qualitatively and quantitatively. The results of the study showed that there was a significant difference between the levels of improvement of conceptual understanding in groups favoring the experimental group. It was suggested that writing-based activities should be used to improve the conceptual understanding of students in numerical calculation-based courses like physics and mathematics.},
   doi       = {10.1007/s40299-013-0062-4},
+  file      = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Atasoy2013.pdf:PDF},
   keywords  = {Writing-to-laern strategy, Electrostatics, Undergraduate, Conceptual understanding},
   publisher = {Springer Nature},
   url       = {https://link.springer.com/article/10.1007%2Fs40299-013-0062-4},
@@ -113,6 +115,7 @@
   month     = {oct},
   abstract  = {This study investigated the effect of the Science Writing Heuristic (SWH) approach on grade 9 students’ understanding of chemical change and mixture concepts. Four intact classes taught by two chemistry teachers from a Turkish public high school were selected for the study; one class was assigned as the treatment group, and the other class was assigned as the comparison group. Students in the treatment group were instructed by the SWH approach, while those in the comparison group were instructed with traditionally designed chemistry instruction. Tests measuring students’ conceptual understanding in the units of chemical change and mixture were administered as pre- and posttest for both groups. At the end of the instruction, semistructured interviews were conducted with 13 students from the treatment group and eight students from the comparison group. ANCOVA results revealed that the SWH approach was superior to the traditional approach on students’ understanding of chemical change and mixture concepts. Interview results indicated that students in the treatment group demonstrated better scientific understanding of chemical change and mixture concepts compared to those in the comparison group.},
   doi       = {10.1007/s11165-012-9326-x},
+  file      = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Kingir2012.pdf:PDF},
   keywords  = {Chemistry education, Conceptual change, Grade 9 students, Science writing heuristic approach},
   publisher = {Springer Nature},
   url       = {https://link.springer.com/article/10.1007%2Fs11165-012-9326-x},
@@ -142,11 +145,12 @@
   number   = {1},
   pages    = {36-41},
   month    = sep,
+  file     = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Burke2005.pdf:PDF},
   keywords = {Traning, Mentoring, Writing instruction, Data tables, Heuristics, Chemistry, Teaching assistants, Active learning, Charlkboards, Density},
   url      = {https://www.jstor.org/stable/42992552?seq=1#page_scan_tab_contents},
 }
 
-@Book{IBSE2014,
+@Book{Dolin2014,
   title     = {{Kompendium: Inquiry Based Science Education - IBSE - Termer, metoder, tankegange og erfaringer - Unders\o gelsesbaseret undervisning i naturfag og matematik}},
   publisher = {Institut for Naturfagenes Didaktik, K\o benhavns Universitet},
   year      = {2014},
@@ -184,6 +188,7 @@
   series    = {Undervisning og Læring},
   address   = {Suderbovej 22 - 24, 9900 Frederikshavn},
   edition   = {1 udgave, 3. oplag},
+  file      = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Hattie2007.pdf:PDF},
   owner     = {ThomasMellergaard},
   timestamp = {2018.05.13},
 }
