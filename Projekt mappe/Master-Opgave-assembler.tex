@@ -1,9 +1,9 @@
-\documentclass[a4paper,12pt,  twoside, openright,draft]{memoir}
+\documentclass[a4paper,12pt,  twoside, openright,final]{memoir}
 
 
 % INPUT PACKAGES %
 \usepackage[utf8]{inputenc}						% INPUT FORMATERING SOM SIKRE AT VI KAN SKRIVE Æ,Ø og Å
-\usepackage[danish]{babel}						% PÅBEGYNDER DANSK ORDDELING
+\usepackage[british, danish]{babel}						% PÅBEGYNDER DANSK ORDDELING
 \renewcommand{\danishhyphenmins}{22}				% BEDRE DANSK ORDDELING
 \usepackage[T1]{fontenc}						% PÆNERE DANSK FONT ENKODNING
 %\usepackage{fontspec}							% Special fonts
@@ -22,7 +22,10 @@
 \bibliographystyle{apacite}						% ACTIVATE APACITE
 \usepackage[danish]{varioref}						% VARIATIONS IN REFERENCES
 \usepackage{fixme}
+\usepackage{soul}								% Huphenable letterspacing
 
+\sodef\an{}{0.2em}{0.9em plus 0.6 em}{1em plus .1em minus .1em}
+\newcommand\stext[1]{\an{\scshape#1}}
 
 % PAGE SETUP REMARKS %
 \setlrmarginsandblock{*}{3.5cm}{0.75}					% HØJRE OG VENSTRE
@@ -61,28 +64,39 @@
 \title{Test dokument\ldots}
 \author{Thomas M. Amby}
 
-\begin{document}
+% ------------------------ INCLUDE LIST ----------------------- %
+\includeonly{Afsnit/Kapitel1}
 
-\maketitle
+\begin{document}
+\include{Afsnit/Forside}
+%\maketitle
 
 % --------- FRONTMATTER --------- %
 \frontmatter
+\begin{otherlanguage}{british}
+	\begin{abstract}
+		This the English abstract\ldots
+	\end{abstract}
+\end{otherlanguage}
+\clearpage
 \tableofcontents
 
 % -------- MAINMATTER -----------%
  \mainmatter
 
 
-\include{Afsnit/Kapitel1}
-\include{Afsnit/Kapitel2}
-\include{Afsnit/Kapitel3}
-\include{Afsnit/Kapitel4}
-\include{Afsnit/Kapitel5}
-\include{Afsnit/Kapitel6}
-\include{Afsnit/Kapitel7}
+\include{Afsnit/Kapitel1} % Introduktion
+\include{Afsnit/Kapitel2} % Teori
+\include{Afsnit/Kapitel3} % Emperi
+\include{Afsnit/Kapitel4} % Analyse, fortolkning og resultater
+\include{Afsnit/Kapitel5} % Diskussion og Opsummering
+\include{Afsnit/Kapitel6} % Konklusion
+\include{Afsnit/Kapitel7} % Perspektivering
 
 % -------- BACKMATTER ---------- %
 \backmatter
 \nocite{*}
 \bibliography{Bibliografi/SWH}
+
+
 \end{document}
