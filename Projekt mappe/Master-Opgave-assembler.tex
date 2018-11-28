@@ -23,6 +23,10 @@
 \usepackage[danish]{varioref}						% VARIATIONS IN REFERENCES
 \usepackage{fixme}
 \usepackage{soul}								% Huphenable letterspacing
+\usepackage{xcolor}
+\usepackage{wrapfig}
+%\usepackage{paperandpencil}						% Spørgeskema pakke
+
 
 \sodef\an{}{0.2em}{0.9em plus 0.6 em}{1em plus .1em minus .1em}
 \newcommand\stext[1]{\an{\scshape#1}}
@@ -33,6 +37,9 @@
 \checkandfixthelayout[nearest]						% SPECIFIKT VALG AF HØJDE ALGORITME
 
 % STYLING THE CHAPTER %
+\definecolor{TMA}{rgb}{.255,.102,0}
+\renewcommand\colorchapnum{\color{TMA}}
+\renewcommand\colorchaptitle{\color{TMA}}
 \chapterstyle{madsen}
 
 % PAGE HEADER AND FOOTER %
@@ -65,7 +72,7 @@
 \author{Thomas M. Amby}
 
 % ------------------------ INCLUDE LIST ----------------------- %
-\includeonly{Afsnit/Kapitel1}
+\includeonly{Afsnit/Forside,Afsnit/Kapitel1, Afsnit/Kapitel2, Afsnit/Kapitel3}
 
 \begin{document}
 \include{Afsnit/Forside}

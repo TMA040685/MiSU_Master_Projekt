@@ -201,4 +201,27 @@
   address   = {Englewood Cliffs, NJ},
 }
 
+@Article{Kruse2013,
+  author   = {Søren Kruse},
+  title    = {Hvor effektive er undersøgelsesbaserede strategier i naturfagsundervisningen?},
+  journal  = {MONA - Matematik og Naturfagsdidaktik},
+  year     = {2013},
+  volume   = {2},
+  pages    = {24 - 48},
+  month    = jun,
+  abstract = {Artiklen belyser på baggrund af fire nyere sammenfatninger af empirisk forskning spørgsmåletom hvorvidt undersøgelsesbaseret naturfagsundervisning er en effektiv pædagogisk strategi måltpå elevernes naturfaglige læring. Først præsenteres en række argumenter for og imod inquiry-basedscience education (IBSE), og dernæst forklares idéen med reviews som metaanalyser som baggrundfor præsentationen af de fire reviews. Resultaterne viser blandt andet at undersøgelsesbaseret naturfagsundervisninghar en positiv effekt på elevernes læring hvis aktiviteterne er lærerstøttede, og hvisde kombinerer kognitive, epistemiske og sociale elevaktiviteter. Men de viser også at undervisningsaktiviteterder sætter naturfaget ind i en sammenhæng, og lærernes spørgende kommunikation derfremmer elevernes synlige tænkning, har endnu større betydning.Based on four reviews of empirical research, this paper focuses on the question: Do we have evidencefor Inquiry-Based Science Education (IBSE) as an effective pedagogical strategy considering scienceachievements of students? As a background for the findings pro and con, arguments about IBSE arepresented and methodological problems in doing meta-analyses are introduced. The analyses showthat IBSE can have a positive effect if the activities are teacher guided, and if cognitive, epistemicand social student activities are integrated. But research also shows that if science activities areintroduced in a context, and if the teachers ask questions that promote visible thinking in students,the effects are even higher.},
+}
+
+@Book{Brinkmann2015,
+  title     = {Kvalitative Metoder - En Grundbog},
+  publisher = {Hans Reitzels Forlag},
+  year      = {2015},
+  author    = {Brinkmann, Svend and Tanggaard, Lene and Hastrup, Kirsten and Szulevicz, Thomas and Raudaskoski, Pirkko and Nielsen, Birger Steen and Nielsen, Kurt Aagaard and Halkier, Bente and Lynggaard, Kennet and Baarts, Charlotte and Dahler-Larsen, Peter and Frederiksen, Morten and Jacobsen, Bo and Boolsen, Merete Watt and Czarniawska, Barbara and Phillips, Louise and Steensig, Jakob and Højgaard, Lis and Søndergaard, Dorte Marie and Nielsen, Henrik Kaare and Gammelgaard, Judy and Jensen, Casper Bruun and Hauge, Hans and Karpatschof, Benny and Kristensen, søren and Flyvbjerg, Bent and Hammersley, Martyn and Denzin, Norman K.},
+  editor    = {Brinkmann, Svend and Tanggaard, Lene},
+  volume    = {3},
+  address   = {København},
+  edition   = {2},
+  isbn      = {978-87-412-5904-8},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

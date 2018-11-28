@@ -70,6 +70,59 @@ Atasoy, {\c{S}}.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Brinkmann%
+\ \protect \BOthers {.}}{%
+Brinkmann%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Brinkmann2015}
+\APACinsertmetastar {%
+Brinkmann2015}%
+\begin{APACrefauthors}%
+Brinkmann, S.%
+, Tanggaard, L.%
+, Hastrup, K.%
+, Szulevicz, T.%
+, Raudaskoski, P.%
+, Nielsen, B\BPBI S.%
+\BDBL {}Denzin, N\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Kvalitative Metoder - En Grundbog} {Kvalitative metoder - en
+  grundbog}\ (\PrintOrdinal{2}\ \BEd, \BVOL~3; S.~Brinkmann\ \BBA {}
+  L.~Tanggaard, \BEDS{}).
+\newblock
+\APACaddressPublisher{København}{Hans Reitzels Forlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Buhl%
+}{%
+Buhl%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Buhl2010}
+\APACinsertmetastar {%
+Buhl2010}%
+\begin{APACrefauthors}%
+Buhl, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle {Talent: Spørgsmålet er ikke om du har talent men hvordan}
+  {Talent: Spørgsmålet er ikke om du har talent men hvordan}.
+\newblock
+\APACaddressPublisher{}{Gyldendal Buisness}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Burke%
 , Hand%
 , Poock%
