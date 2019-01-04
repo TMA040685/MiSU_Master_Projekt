@@ -7,7 +7,8 @@
 \contentsline {section}{\numberline {1.2}Problemformulering}{1}{section.1.2}
 \contentsline {chapter}{\chapternumberline {2}Teori}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Litteratursøgning}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Litteraturreview}{4}{section.2.2}
+\contentsline {section}{\numberline {2.2}Temaer i Litteraturen}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Litteraturreview}{5}{section.2.3}
 \contentsline {chapter}{\chapternumberline {3}Empiri}{7}{chapter.3}
 \contentsline {section}{\numberline {3.1}Empiri grundlag}{7}{section.3.1}
 \contentsline {section}{\numberline {3.2}Indsamling af empiri}{7}{section.3.2}

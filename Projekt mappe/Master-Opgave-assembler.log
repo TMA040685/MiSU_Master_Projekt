@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.8.21)  28 NOV 2018 21:24
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.8.21)  7 DEC 2018 14:51
 entering extended mode
 **./Master-Opgave-assembler.tex
 (Master-Opgave-assembler.tex
@@ -1284,9 +1284,21 @@ LaTeX Warning: Label `sec:1.1' multiply defined.
 
 ) (Afsnit/Kapitel6.aux
 
+LaTeX Warning: Label `4@xvr' multiply defined.
+
+
+LaTeX Warning: Label `4@vr' multiply defined.
+
+
 LaTeX Warning: Label `sec:1.1' multiply defined.
 
 ) (Afsnit/Kapitel7.aux
+
+LaTeX Warning: Label `5@xvr' multiply defined.
+
+
+LaTeX Warning: Label `5@vr' multiply defined.
+
 
 LaTeX Warning: Label `sec:1.1' multiply defined.
 
@@ -1476,39 +1488,43 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 6.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 24.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 25.
 
 ("C:\Users\Thomas Mellergaard m\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\
 t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 28.
  [3
 
 
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 27.
-)
+(babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 63.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 63.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 63.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 63.
  [4]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 63.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 63.
+)
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 96.
 Package babel Info: Redefining danish shorthand "~
@@ -1518,6 +1534,15 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 96.
  [5]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 96.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 96.
+ [6]
 \openout2 = `Afsnit/Kapitel3.aux'.
 
  (Afsnit/Kapitel3.tex
@@ -1526,35 +1551,26 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [6
+(babel)             in language  on input line 6.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 21.
+ [7
 
 
 
 ]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 6.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 16.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 16.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 21.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 21.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 21.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 21.
- [7]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 26.
 
 ("C:\Users\Thomas Mellergaard m\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\
@@ -1710,12 +1726,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 34839 strings out of 427836
- 625579 string characters out of 3145675
- 853591 words of memory out of 3000000
- 38366 multiletter control sequences out of 15000+200000
+ 34851 strings out of 427836
+ 625708 string characters out of 3145675
+ 854543 words of memory out of 3000000
+ 38378 multiletter control sequences out of 15000+200000
  598695 words of font info for 60 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 68i,12n,73p,1000b,1000s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,12n,73p,1285b,1000s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Master-Opgave-assembler.pdf (16 pages).
