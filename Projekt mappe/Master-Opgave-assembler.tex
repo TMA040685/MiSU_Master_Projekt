@@ -26,7 +26,7 @@
 \usepackage{xcolor}
 \usepackage{wrapfig}
 %\usepackage{paperandpencil}						% Spørgeskema pakke
-
+%\usepackage[lines=40, chars=60,noindent]{stdpage}
 
 \sodef\an{}{0.2em}{0.9em plus 0.6 em}{1em plus .1em minus .1em}
 \newcommand\stext[1]{\an{\scshape#1}}
@@ -68,11 +68,24 @@
 \setsecnumdepth{subsubsection}
 \pagestyle{TMArules}
 
+
+% APPENDIX CUSTOMISATION %
+\addto\captionsdanish{\renewcommand\appendixname{Bilag}}
+\DeclareRobustCommand{\changetoapp}{%
+	\renewcommand*{\cftchapterpresnum}{\appendixname\space}%
+	\setlength{\cftchapternumwidth}{7em}
+}
+\let\oldappendix\appendix
+\renewcommand*{\appendix}{\oldappendix
+	\addtocontents{toc}{\changetoapp}}
+
 \title{Test dokument\ldots}
 \author{Thomas M. Amby}
 
+
+
 % ------------------------ INCLUDE LIST ----------------------- %
-\includeonly{Afsnit/Forside,Afsnit/Kapitel1, Afsnit/Kapitel2, Afsnit/Kapitel3}
+\includeonly{Afsnit/Kapitel1, Afsnit/Kapitel2}
 
 \begin{document}
 \include{Afsnit/Forside}
@@ -101,9 +114,12 @@
 \include{Afsnit/Kapitel7} % Perspektivering
 
 % -------- BACKMATTER ---------- %
-\backmatter
+%\backmatter
 \nocite{*}
 \bibliography{Bibliografi/SWH}
+
+\appendix
+\include{Afsnit/Appendix} % Appendix
 
 
 \end{document}

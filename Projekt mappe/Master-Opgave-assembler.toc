@@ -23,3 +23,5 @@
 \contentsline {chapter}{\chapternumberline {7}Perspektivering}{23}{chapter.7}
 \contentsline {section}{\numberline {7.1}Afsnit 1}{24}{section.7.1}
 \contentsline {chapter}{Litteratur}{27}{chapter*.2}
+\changetoapp 
+\contentsline {appendix}{\chapternumberline {A}SWH for elever}{29}{appendix.A}
