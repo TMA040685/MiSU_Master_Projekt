@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.8.21)  4 JAN 2019 11:43
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.8.21)  14 JAN 2019 10:16
 entering extended mode
 **./Master-Opgave-assembler.tex
 (Master-Opgave-assembler.tex
@@ -1338,10 +1338,15 @@ ABD: EveryShipout initializing macros
 Package apacite Warning: No suitable language definition file (danish.apc) foun
 d.
 
+\openout2 = `Afsnit/Forside.aux'.
+
+(Afsnit/Forside.tex
+File: Figs/Pen.jpg Graphic file (type bmp)
+<Figs/Pen.jpg>
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 28.
 
 ("C:\Users\Thomas Mellergaard m\AppData\Local\Programs\MiKTeX 2.9\tex\generic\o
 berdiek\se-ascii-print.def"
@@ -1349,11 +1354,33 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
 Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 28.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 28.
+ [1
+
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 28.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 28.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 28.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 28.
+ [2
+
+])
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 101.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 101.
+Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 101.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 101.
  [1
-
 
 
 ]
@@ -1616,12 +1643,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
  ) 
 Here is how much of TeX's memory you used:
- 34807 strings out of 427836
- 624872 string characters out of 3145675
- 856136 words of memory out of 3000000
- 38349 multiletter control sequences out of 15000+200000
- 576953 words of font info for 52 fonts, out of 3000000 for 9000
+ 34829 strings out of 427836
+ 625138 string characters out of 3145675
+ 856216 words of memory out of 3000000
+ 38360 multiletter control sequences out of 15000+200000
+ 595394 words of font info for 58 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  68i,12n,73p,1596b,1000s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Master-Opgave-assembler.pdf (11 pages).
+Output written on Master-Opgave-assembler.pdf (13 pages).
