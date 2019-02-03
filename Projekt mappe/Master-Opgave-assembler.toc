@@ -7,14 +7,18 @@
 \contentsline {section}{\numberline {1.2}Problemformulering}{2}{section.1.2}
 \contentsline {chapter}{\chapternumberline {2}Teori}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Læringsteoretisk ståsted}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Litteratursøgning}{3}{section.2.2}
-\contentsline {section}{\numberline {2.3}Temaer i Litteraturen}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}Litteraturreview}{6}{section.2.4}
-\contentsline {chapter}{\chapternumberline {3}Empiri}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Empiri grundlag}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Indsamling af empiri}{7}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Spørgeskema om motivation}{8}{subsection.3.2.1}
-\contentsline {section}{\numberline {3.3}Liste over empiriske muligheder}{8}{section.3.3}
+\contentsline {section}{\numberline {2.2}Litteratursøgning}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Temaer i Litteraturen}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Litteraturreview}{7}{section.2.4}
+\contentsline {chapter}{\chapternumberline {3}Empiri}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Empiriske muligheder}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Empirisk forskningsdesign}{12}{section.3.2}
+\contentsline {section}{\numberline {3.3}Indsamling af empiriske data}{12}{section.3.3}
+\contentsline {section}{\numberline {3.4}Empiriske begrænsninger}{12}{section.3.4}
+\contentsline {section}{\numberline {3.5}Empiri grundlag}{12}{section.3.5}
+\contentsline {section}{\numberline {3.6}Indsamling af empiri}{12}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Spørgeskema om motivation}{13}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.7}Liste over empiriske muligheder}{13}{section.3.7}
 \contentsline {chapter}{\chapternumberline {4}Analyse, Fortolkning og resultateri}{11}{chapter.4}
 \contentsline {section}{\numberline {4.1}Afsnit 1}{12}{section.4.1}
 \contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{15}{chapter.5}

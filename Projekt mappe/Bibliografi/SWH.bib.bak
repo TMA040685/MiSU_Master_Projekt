@@ -224,4 +224,12 @@
   isbn      = {978-87-412-5904-8},
 }
 
+@Book{Buhl2010,
+  title     = {Talent: Spørgsmålet er ikke om du har talent men hvordan},
+  publisher = {Gyldendal Buisness},
+  year      = {2010},
+  author    = {Buhl, Claus},
+  isbn      = {870-210-706-6},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
