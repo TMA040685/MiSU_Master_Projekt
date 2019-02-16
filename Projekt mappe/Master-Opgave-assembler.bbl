@@ -70,6 +70,36 @@ Atasoy, {\c{S}}.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Bernholt}%
+, {R\"onnebeck}%
+, {Ropohl}%
+, {K\"oller}%
+\BCBL {}\ \BBA {} {Parchmann}%
+}{%
+{Bernholt}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Bernholt2013}
+\APACinsertmetastar {%
+Bernholt2013}%
+\begin{APACrefauthors}%
+{Bernholt}, S.%
+, {R\"onnebeck}, S.%
+, {Ropohl}, M.%
+, {K\"oller}, O.%
+\BCBL {}\ \BBA {} {Parchmann}, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Report on current state of the art in formative and summative
+  assessment in IBE in STM - Part I.} {Report on current state of the art in
+  formative and summative assessment in ibe in stm - part i.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Brinkmann%
 \ \protect \BOthers {.}}{%
 Brinkmann%
@@ -256,6 +286,35 @@ Dolin, J.%
 \newblock
 \APACaddressPublisher{}{Institut for Naturfagenes Didaktik, K\o benhavns
   Universitet}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Erduran}%
+, {Simon}%
+\BCBL {}\ \BBA {} {Osborne}%
+}{%
+{Erduran}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+Erduran2004}
+\APACinsertmetastar {%
+Erduran2004}%
+\begin{APACrefauthors}%
+{Erduran}, S.%
+, {Simon}, S.%
+\BCBL {}\ \BBA {} {Osborne}, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{Oktober}{}.
+\newblock
+{\BBOQ}\APACrefatitle {TAPing into argumentation: Developments in the
+  application of Toulmin's Argument Pattern for studying science discourse}
+  {Taping into argumentation: Developments in the application of toulmin's
+  argument pattern for studying science discourse}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science Education}{88}{6}{915 - 933}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -463,8 +522,8 @@ Kolb, D\BPBI A.%
 \newblock
 \APACrefYear{1984}.
 \newblock
-\APACrefbtitle {Experiential Learning: Experience as the source of leanrning
-  and development} {Experiential learning: Experience as the source of
+\APACrefbtitle {Experiential Learning: Experience as the science of leanrning
+  and development} {Experiential learning: Experience as the science of
   leanrning and development}.
 \newblock
 \APACaddressPublisher{Englewood Cliffs, NJ}{Prentice Hall}.
@@ -518,6 +577,29 @@ Kruse, S.%
   strategier i naturfagsundervisningen?}{\BBCQ}
 \newblock
 \APACjournalVolNumPages{MONA - Matematik og Naturfagsdidaktik}{2}{}{24 - 48}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Lawson}%
+}{%
+{Lawson}%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Lawson2010}
+\APACinsertmetastar {%
+Lawson2010}%
+\begin{APACrefauthors}%
+{Lawson}, A\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle {Teaching Inquiry science in middle and secondary schools}
+  {Teaching inquiry science in middle and secondary schools}.
+\newblock
+\APACaddressPublisher{}{SAGE Publications, Inc.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

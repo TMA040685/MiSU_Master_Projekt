@@ -10,23 +10,21 @@
 \contentsline {section}{\numberline {2.2}Litteratursøgning}{5}{section.2.2}
 \contentsline {section}{\numberline {2.3}Temaer i Litteraturen}{6}{section.2.3}
 \contentsline {section}{\numberline {2.4}Litteraturreview}{7}{section.2.4}
-\contentsline {chapter}{\chapternumberline {3}Empiri}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Empiriske muligheder}{11}{section.3.1}
-\contentsline {section}{\numberline {3.2}Empirisk forskningsdesign}{12}{section.3.2}
-\contentsline {section}{\numberline {3.3}Indsamling af empiriske data}{12}{section.3.3}
-\contentsline {section}{\numberline {3.4}Empiriske begrænsninger}{12}{section.3.4}
-\contentsline {section}{\numberline {3.5}Empiri grundlag}{12}{section.3.5}
-\contentsline {section}{\numberline {3.6}Indsamling af empiri}{12}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Spørgeskema om motivation}{13}{subsection.3.6.1}
-\contentsline {section}{\numberline {3.7}Liste over empiriske muligheder}{13}{section.3.7}
-\contentsline {chapter}{\chapternumberline {4}Analyse, Fortolkning og resultateri}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}Afsnit 1}{12}{section.4.1}
-\contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}Afsnit 1}{16}{section.5.1}
-\contentsline {chapter}{\chapternumberline {6}Konklusion}{19}{chapter.6}
-\contentsline {section}{\numberline {6.1}Afsnit 1}{20}{section.6.1}
-\contentsline {chapter}{\chapternumberline {7}Perspektivering}{23}{chapter.7}
-\contentsline {section}{\numberline {7.1}Afsnit 1}{24}{section.7.1}
-\contentsline {chapter}{Litteratur}{27}{chapter*.2}
+\contentsline {chapter}{\chapternumberline {3}Metode, design \& data}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Empirisk metode}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Empirisk design}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}Empiriske data}{12}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Spørgeskema om motivation for skriftligt arbejde}{12}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Skriftligt arbejde}{13}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Empiriske begrænsninger}{13}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}Analyse, Fortolkning og resultateri}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Spørgeskemaet}{15}{section.4.1}
+\contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Afsnit 1}{23}{section.5.1}
+\contentsline {chapter}{\chapternumberline {6}Konklusion}{27}{chapter.6}
+\contentsline {section}{\numberline {6.1}Afsnit 1}{29}{section.6.1}
+\contentsline {chapter}{\chapternumberline {7}Perspektivering}{33}{chapter.7}
+\contentsline {section}{\numberline {7.1}Afsnit 1}{35}{section.7.1}
+\contentsline {chapter}{Litteratur}{39}{chapter*.2}
 \changetoapp 
-\contentsline {appendix}{\chapternumberline {A}SWH for elever}{29}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}SWH for elever}{43}{appendix.A}
