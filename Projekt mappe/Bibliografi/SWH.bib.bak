@@ -37,15 +37,14 @@
   Url                      = {https://link.springer.com/article/10.1007%2Fs40299-013-0062-4}
 }
 
-@Standard{Bernholt2013,
-  Title                    = {Report on current state of the art in formative and summative assessment in IBE in STM - Part I},
-  Institution              = {University of Copenhagen},
-  Organization             = {ASSIST Me},
-  Author                   = {{Bernholt}, Sascha and {R\"onnebeck}, Silke and {Ropohl}, Mathias and {K\"oller}, Olaf and {Parchmann}, Ilka},
-  Year                     = {2013},
-
-  Owner                    = {ThomasMellergaard},
-  Timestamp                = {2019.02.16}
+@TechReport{Bernholt2013,
+  author       = {{Bernholt}, Sascha and {R\"onnebeck}, Silke and {Ropohl}, Mathias and {K\"oller}, Olaf and {Parchmann}, Ilka},
+  title        = {Report on current state of the art in formative and summative assessment in IBE in STM - Part I},
+  institution  = {University of Copenhagen},
+  year         = {2013},
+  organization = {ASSIST Me},
+  owner        = {ThomasMellergaard},
+  timestamp    = {2019.02.16},
 }
 
 @Book{Brinkmann2015,
@@ -224,23 +223,21 @@
   Url                      = {https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291098-2736%28199912%2936%3A10%3C1065%3A%3AAID-TEA2%3E3.0.CO%3B2-I}
 }
 
-@Article{Kingir2012,
-  Title                    = {Using the Science Writing Heuristic Approach to Enhance Student Understanding in Chemical Change and Mixture},
-  Author                   = {Sevgi Kingir and Omer Geban and Murat Gunel},
-  Journal                  = {Research in Science Education},
-  Year                     = {2012},
-
-  Month                    = {oct},
-  Number                   = {4},
-  Pages                    = {1645--1663},
-  Volume                   = {43},
-
-  Abstract                 = {This study investigated the effect of the Science Writing Heuristic (SWH) approach on grade 9 students’ understanding of chemical change and mixture concepts. Four intact classes taught by two chemistry teachers from a Turkish public high school were selected for the study; one class was assigned as the treatment group, and the other class was assigned as the comparison group. Students in the treatment group were instructed by the SWH approach, while those in the comparison group were instructed with traditionally designed chemistry instruction. Tests measuring students’ conceptual understanding in the units of chemical change and mixture were administered as pre- and posttest for both groups. At the end of the instruction, semistructured interviews were conducted with 13 students from the treatment group and eight students from the comparison group. ANCOVA results revealed that the SWH approach was superior to the traditional approach on students’ understanding of chemical change and mixture concepts. Interview results indicated that students in the treatment group demonstrated better scientific understanding of chemical change and mixture concepts compared to those in the comparison group.},
-  Doi                      = {10.1007/s11165-012-9326-x},
-  File                     = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Kingir2012.pdf:PDF},
-  Keywords                 = {Chemistry education, Conceptual change, Grade 9 students, Science writing heuristic approach},
-  Publisher                = {Springer Nature},
-  Url                      = {https://link.springer.com/article/10.1007%2Fs11165-012-9326-x}
+@Article{Kingir2013,
+  author    = {Sevgi Kingir and Omer Geban and Murat Gunel},
+  title     = {Using the Science Writing Heuristic Approach to Enhance Student Understanding in Chemical Change and Mixture},
+  journal   = {Research in Science Education},
+  year      = {2013},
+  volume    = {43},
+  number    = {4},
+  pages     = {1645--1663},
+  month     = {oct},
+  abstract  = {This study investigated the effect of the Science Writing Heuristic (SWH) approach on grade 9 students’ understanding of chemical change and mixture concepts. Four intact classes taught by two chemistry teachers from a Turkish public high school were selected for the study; one class was assigned as the treatment group, and the other class was assigned as the comparison group. Students in the treatment group were instructed by the SWH approach, while those in the comparison group were instructed with traditionally designed chemistry instruction. Tests measuring students’ conceptual understanding in the units of chemical change and mixture were administered as pre- and posttest for both groups. At the end of the instruction, semistructured interviews were conducted with 13 students from the treatment group and eight students from the comparison group. ANCOVA results revealed that the SWH approach was superior to the traditional approach on students’ understanding of chemical change and mixture concepts. Interview results indicated that students in the treatment group demonstrated better scientific understanding of chemical change and mixture concepts compared to those in the comparison group.},
+  doi       = {10.1007/s11165-012-9326-x},
+  file      = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Kingir2012.pdf:PDF},
+  keywords  = {Chemistry education, Conceptual change, Grade 9 students, Science writing heuristic approach},
+  publisher = {Springer Nature},
+  url       = {https://link.springer.com/article/10.1007%2Fs11165-012-9326-x},
 }
 
 @Book{Kolb1984,
@@ -310,6 +307,14 @@
   pages    = {381-391},
   month    = sep,
   abstract = {Despite some limitations, Cronbach's coefficient alpha remains the most widely used measure of scale reliability. The purpose of this article was to empirically document the magnitudes of alpha coefficients obtained in behavioral research, compare these obtained values with guidelines and recommendations set forth by individuals such as Nunnally (1967, 1978), and provide insights into research design characteristics that may influence the size of coefficient alpha. Average reported alpha coefficients ranged from .70 for values and beliefs to .82 for job satisfaction. With few exceptions, there were no substantive relationships between the magnitude of coefficient alpha and the research design characteristics investigated.},
+}
+
+@InBook{Greenbowe2005,
+  chapter   = {Chemists' Guide to Effective Teaching},
+  title     = {Introduction to the Science Writing Heuristic},
+  publisher = {Prentice Hall},
+  year      = {2005},
+  author    = {Greenbowe, T.J. and Hand, B.},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

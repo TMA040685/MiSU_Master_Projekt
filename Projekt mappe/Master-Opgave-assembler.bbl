@@ -95,8 +95,11 @@ Bernholt2013}%
 \APACrefYearMonthDay{2013}{}{}.
 \newblock
 \APACrefbtitle {Report on current state of the art in formative and summative
-  assessment in IBE in STM - Part I.} {Report on current state of the art in
-  formative and summative assessment in ibe in stm - part i.}
+  assessment in IBE in STM - Part I} {Report on current state of the art in
+  formative and summative assessment in ibe in stm - part i}\
+  \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{København}{University of Copenhagen}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -505,11 +508,11 @@ Kingir%
 }{%
 Kingir%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2012}}%
+{\protect \APACyear {2013}}%
 }]{%
-Kingir2012}
+Kingir2013}
 \APACinsertmetastar {%
-Kingir2012}%
+Kingir2013}%
 \begin{APACrefauthors}%
 Kingir, S.%
 , Geban, O.%
@@ -517,7 +520,7 @@ Kingir, S.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2012}{oct}{}.
+\APACrefYearMonthDay{2013}{oct}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Using the Science Writing Heuristic Approach to Enhance
   Student Understanding in Chemical Change and Mixture} {Using the science
