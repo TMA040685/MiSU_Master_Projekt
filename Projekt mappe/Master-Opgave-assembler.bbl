@@ -351,6 +351,34 @@ Erkol, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Greenbowe%
+\ \BBA {} Hand%
+}{%
+Greenbowe%
+\ \BBA {} Hand%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Greenbowe2005}
+\APACinsertmetastar {%
+Greenbowe2005}%
+\begin{APACrefauthors}%
+Greenbowe, T.%
+\BCBT {}\ \BBA {} Hand, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introduction to the Science Writing Heuristic}
+  {Introduction to the science writing heuristic}.{\BBCQ}
+\newblock
+\BIn{} (\BCHAP\ Chemists' Guide to Effective Teaching).
+\newblock
+\APACaddressPublisher{}{Prentice Hall}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hattie%
 \ \BBA {} Timperley%
 }{%
