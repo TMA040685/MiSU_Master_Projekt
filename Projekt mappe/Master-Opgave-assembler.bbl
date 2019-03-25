@@ -632,4 +632,27 @@ Miller, D\BPBI M.%
 \begin{APACrefDOI} \doi{10.1007/s10648-016-9393-z} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Peterson%
+}{%
+Peterson%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+Peterson1994}
+\APACinsertmetastar {%
+Peterson1994}%
+\begin{APACrefauthors}%
+Peterson, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Meta-analysis of Cronbach's Coefficient Alpha.} {A
+  meta-analysis of cronbach's coefficient alpha.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Consumer Research}{21}{2}{381-391}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
