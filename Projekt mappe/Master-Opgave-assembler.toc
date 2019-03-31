@@ -6,10 +6,10 @@
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Problemformulering}{2}{section.1.2}
 \contentsline {section}{\numberline {1.3}Projektets struktur}{2}{section.1.3}
-\contentsline {chapter}{\chapternumberline {2}Teori}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Læringsteoretisk ståsted}{3}{section.2.1}
+\contentsline {chapter}{\chapternumberline {2}Baggrund}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Læringsteoretisk udgangspunkt}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Litteratursøgning}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Temaer i Litteraturen}{6}{section.2.3}
+\contentsline {section}{\numberline {2.3}Temaer i litteraturen}{6}{section.2.3}
 \contentsline {section}{\numberline {2.4}Litteraturreview}{8}{section.2.4}
 \contentsline {chapter}{\chapternumberline {3}Metode, design \& data}{13}{chapter.3}
 \contentsline {section}{\numberline {3.1}Empirisk metode}{13}{section.3.1}
