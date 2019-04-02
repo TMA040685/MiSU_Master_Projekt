@@ -18,8 +18,10 @@
 \contentsline {subsection}{\numberline {3.3.1}Spørgeskema om motivation for skriftligt arbejde}{14}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Skriftligt arbejde}{16}{subsection.3.3.2}
 \contentsline {section}{\numberline {3.4}Empiriske begrænsninger}{16}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Analyse, Fortolkning og resultateri}{17}{chapter.4}
+\contentsline {chapter}{\chapternumberline {4}Analyse, fortolkning og resultater}{17}{chapter.4}
 \contentsline {section}{\numberline {4.1}Spørgeskemaet}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Spørgeskema to}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Afleveringer}{19}{section.4.3}
 \contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{19}{chapter.5}
 \contentsline {section}{\numberline {5.1}Afsnit 1}{21}{section.5.1}
 \contentsline {chapter}{\chapternumberline {6}Konklusion}{25}{chapter.6}
