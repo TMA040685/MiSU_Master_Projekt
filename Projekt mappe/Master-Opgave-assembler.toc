@@ -8,36 +8,38 @@
 \contentsline {section}{\numberline {1.3}Projektets struktur}{2}{section.1.3}
 \contentsline {chapter}{\chapternumberline {2}Baggrund}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Læringsteoretisk udgangspunkt}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Litteratursøgning}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Temaer i litteraturen}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Litteraturreview}{8}{section.2.4}
-\contentsline {chapter}{\chapternumberline {3}Metode, design \& data}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Empirisk metode}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}Empirisk design}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Empiriske data}{14}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Spørgeskema om motivation for skriftligt arbejde}{14}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Skriftligt arbejde}{16}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Empiriske begrænsninger}{16}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Analyse, fortolkning og resultater}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Spørgeskemaet}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Samtale om motivation for skriftlighed}{18}{section.4.2}
-\contentsline {section}{\numberline {4.3}Andet spørgeskema}{18}{section.4.3}
-\contentsline {section}{\numberline {4.4}Afleveringer}{18}{section.4.4}
-\contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{19}{chapter.5}
-\contentsline {section}{\numberline {5.1}Afsnit 1}{19}{section.5.1}
-\contentsline {chapter}{\chapternumberline {6}Konklusion}{21}{chapter.6}
-\contentsline {section}{\numberline {6.1}Afsnit 1}{21}{section.6.1}
-\contentsline {chapter}{\chapternumberline {7}Perspektivering}{23}{chapter.7}
-\contentsline {section}{\numberline {7.1}Afsnit 1}{23}{section.7.1}
-\contentsline {chapter}{Litteratur}{25}{chapter*.2}
+\contentsline {section}{\numberline {2.2}Teori}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Science Writing Heuristic}{5}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}TAP}{8}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Litteratursøgning}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Temaer i litteraturen}{10}{section.2.4}
+\contentsline {section}{\numberline {2.5}Litteraturreview}{11}{section.2.5}
+\contentsline {chapter}{\chapternumberline {3}Metode, design \& data}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Empirisk metode}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Empirisk design}{17}{section.3.2}
+\contentsline {section}{\numberline {3.3}Empiriske data}{18}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Spørgeskema om motivation for skriftligt arbejde}{18}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Skriftligt arbejde}{20}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Empiriske begrænsninger}{20}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}Analyse, fortolkning og resultater}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Spørgeskemaet}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Samtale om motivation for skriftlighed}{22}{section.4.2}
+\contentsline {section}{\numberline {4.3}Afleveringer}{22}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}Afsnit 1}{23}{section.5.1}
+\contentsline {chapter}{\chapternumberline {6}Konklusion}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}Afsnit 1}{25}{section.6.1}
+\contentsline {chapter}{\chapternumberline {7}Perspektivering}{27}{chapter.7}
+\contentsline {section}{\numberline {7.1}Afsnit 1}{27}{section.7.1}
+\contentsline {chapter}{Litteratur}{29}{chapter*.2}
 \changetoapp 
-\contentsline {appendix}{\chapternumberline {A}Science Writing Heuristic eller at skrive for at lære}{29}{appendix.A}
-\contentsline {section}{\numberline {A.1}Stil spørgsmål}{30}{section.A.1}
-\contentsline {section}{\numberline {A.2}Forberedelse af undersøgelse}{30}{section.A.2}
-\contentsline {section}{\numberline {A.3}Lav forudsigelser}{31}{section.A.3}
-\contentsline {section}{\numberline {A.4}Indsamling af empiri}{31}{section.A.4}
-\contentsline {section}{\numberline {A.5}Analyse af empiri}{31}{section.A.5}
-\contentsline {section}{\numberline {A.6}Fortolkning af evidens}{32}{section.A.6}
-\contentsline {section}{\numberline {A.7}Fremstilling af påstande}{32}{section.A.7}
-\contentsline {section}{\numberline {A.8}Reflektion over undersøgelsen}{32}{section.A.8}
-\contentsline {section}{\numberline {A.9}Noter}{32}{section.A.9}
+\contentsline {appendix}{\chapternumberline {A}Science Writing Heuristic eller at skrive for at lære}{33}{appendix.A}
+\contentsline {section}{\numberline {A.1}Stil spørgsmål}{34}{section.A.1}
+\contentsline {section}{\numberline {A.2}Forberedelse af undersøgelse}{34}{section.A.2}
+\contentsline {section}{\numberline {A.3}Lav forudsigelser}{35}{section.A.3}
+\contentsline {section}{\numberline {A.4}Indsamling af empiri}{35}{section.A.4}
+\contentsline {section}{\numberline {A.5}Analyse af empiri}{35}{section.A.5}
+\contentsline {section}{\numberline {A.6}Fortolkning af evidens}{36}{section.A.6}
+\contentsline {section}{\numberline {A.7}Fremstilling af påstande}{36}{section.A.7}
+\contentsline {section}{\numberline {A.8}Reflektion over undersøgelsen}{36}{section.A.8}
+\contentsline {section}{\numberline {A.9}Noter}{36}{section.A.9}

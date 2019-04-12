@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.2.3)  8 APR 2019 15:34
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2019.2.3)  12 APR 2019 14:58
 entering extended mode
 **./Master-Opgave-assembler.tex
 (Master-Opgave-assembler.tex
@@ -1378,13 +1378,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 27.
  [2
 
 ])
@@ -1503,89 +1503,132 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 38.
 [4]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 43.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 48.
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 48.
+ [5]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 61.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 61.
+ [6]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 92.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 92.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 92.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 92.
+ [7]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 98.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 98.
+ [8]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 100.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 105.
+
 
 ("C:\Users\ThomasMellergaard\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1l
 mtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 62.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 62.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 62.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 62.
- [5]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 70.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 74.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 74.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 74.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 74.
- [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1454) has occurred while \output is active []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 99.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 99.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 99.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 99.
- [7]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 101.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 101.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 105.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 105.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 105.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 105.
+(babel)             in language  on input line 125.
+ [9
 
-[8])
+]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 157.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 116.
- [9]
+(babel)             in language  on input line 157.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 157.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 157.
+
+[10]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 116.
- [10]
+(babel)             in language  on input line 159.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 116.
+(babel)             in language  on input line 163.
  [11]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 167.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 167.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 167.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 167.
+ [12]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 171.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 171.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 171.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 171.
+ [13])
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 116.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 116.
+ [14]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 116.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 116.
+ [15]
 \openout2 = `Afsnit/Kapitel3.aux'.
 
  (Afsnit/Kapitel3.tex
@@ -1597,7 +1640,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [12
+ [16
 
 
 
@@ -1622,7 +1665,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 17.
- [13]
+ [17]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining danish shorthand "~
@@ -1635,7 +1678,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 34.
- [14]
+ [18]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining danish shorthand "~
@@ -1644,7 +1687,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 66.
- [15]
+ [19]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 67.
 Package babel Info: Redefining danish shorthand "~
@@ -1658,22 +1701,28 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 117.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 117.
- [16]
+
+[20]
 \openout2 = `Afsnit/Kapitel4.aux'.
 
-
-(Afsnit/Kapitel4.tex
+ (Afsnit/Kapitel4.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+
+
+LaTeX Warning: Hyper reference `sec:4.3' on page 21 undefined on input line 4.
+
+
+LaTeX Warning: Reference `sec:4.3' on page 21 undefined on input line 4.
+
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 6.
 File: Figs/Sammenlign.jpg Graphic file (type QTm)
 <use  "Figs/Sammenlign.jpg" >
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1685,7 +1734,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 17.
-[17
+[21
 
 
 
@@ -1694,10 +1743,6 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 19.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
@@ -1711,7 +1756,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 118.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 118.
- [18]
+ [22]
 \openout2 = `Afsnit/Kapitel5.aux'.
 
  (Afsnit/Kapitel5.tex
@@ -1732,7 +1777,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 119.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 119.
- [19
+ [23
 
 
 
@@ -1748,7 +1793,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [20
+ [24
 
 
 
@@ -1770,7 +1815,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 120.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 120.
- [21]
+ [25]
 \openout2 = `Afsnit/Kapitel7.aux'.
 
 
@@ -1783,7 +1828,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [22
+ [26
 
 
 
@@ -1794,10 +1839,10 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
 
-LaTeX Warning: Hyper reference `sec7.1' on page 23 undefined on input line 4.
+LaTeX Warning: Hyper reference `sec7.1' on page 27 undefined on input line 4.
 
 
-LaTeX Warning: Reference `sec7.1' on page 23 undefined on input line 4.
+LaTeX Warning: Reference `sec7.1' on page 27 undefined on input line 4.
 
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 8.
@@ -1812,7 +1857,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 121.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 121.
- [23] (Master-Opgave-assembler.bbl
+ [27] (Master-Opgave-assembler.bbl
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1821,7 +1866,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [24
+ [28
 
 
 ]
@@ -1839,7 +1884,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 201.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 201.
- [25]
+ [29]
 Underfull \hbox (badness 2894) in paragraph at lines 240--260
 \T1/lmr/m/n/12 na-tu-re of la-bo-ra-tory lear-ning ex-pe-ri-en-ces in secon-dar
 y sci-en-ce on-li-
@@ -1852,50 +1897,58 @@ n/12 , \T1/lmr/m/it/12 43\T1/lmr/m/n/12 (3), 1029-1050.  Re-tri-e-ved
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 463.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 463.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 463.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 463.
-[26]
-Underfull \hbox (badness 1331) in paragraph at lines 478--503
+(babel)             in language  on input line 451.
+[30]
+Underfull \hbox (badness 1331) in paragraph at lines 509--534
 []\T1/lmr/m/n/12 Keys, C. W., Hand, B., Prain, V., & Coll-ins, S.  (1999, Ju-ly
 ).  Using
  []
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 478--503
+Underfull \hbox (badness 4752) in paragraph at lines 509--534
 \T1/lmr/m/n/12 the sci-en-ce wri-ting heuri-stic as a tool for lear-ning from l
 a-bo-ra-
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 478--503
+Underfull \hbox (badness 4279) in paragraph at lines 509--534
 \T1/lmr/m/n/12 tory in-ve-sti-ga-tions in secon-dary sci-en-ce.  \T1/lmr/m/it/1
 2 Jour-nal of Re-search in
  []
 
 
-Underfull \hbox (badness 8189) in paragraph at lines 478--503
+Underfull \hbox (badness 8189) in paragraph at lines 509--534
 \T1/lmr/m/it/12 Sci-en-ce Tea-ching\T1/lmr/m/n/12 , \T1/lmr/m/it/12 36\T1/lmr/m
 /n/12 (10), 1065-1084.  Re-tri-e-ved from [][]$\T1/lmtt/m/n/12 https ://
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--503
+Underfull \hbox (badness 10000) in paragraph at lines 509--534
 \T1/lmtt/m/n/12 onlinelibrary [] .wiley [] .com / doi / abs / 10 [] .1002 / %28
 SICI % 291098 [] -2736 %
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 478--503
+Underfull \hbox (badness 7012) in paragraph at lines 509--534
 \T1/lmtt/m/n/12 28199912 % 2936 % 3A10 % 3C1065 % 3A % 3AAID [] -TEA2 % 3E3 [] 
 .0 [] .CO % 3B2 [] -I$[][]   \T1/lmr/m/n/12 doi:
  []
 
-)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 719.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 719.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 719.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 719.
+[31])
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 129.
 Package babel Info: Redefining danish shorthand "~
@@ -1904,7 +1957,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 129.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 129.
- [27]
+ [32]
 \openout2 = `Afsnit/Appendix.aux'.
 
  (Afsnit/Appendix.tex
@@ -1913,27 +1966,18 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
+(babel)             in language  on input line 15.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
- [28
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 15.
+ [33
 
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 15.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 15.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 15.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 15.
- [29]
-Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 22.
@@ -1953,7 +1997,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 33.
- [30]
+ [34]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
@@ -1977,7 +2021,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 45.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 45.
- [31]
+ [35]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 46.
 Package babel Info: Redefining danish shorthand "~
@@ -2000,7 +2044,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 129.
 
-[32]
+[36]
 
 FiXme Summary: Number of notes: 0,
 (FiXme)        Number of warnings: 0,
@@ -2026,18 +2070,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
  ) 
 Here is how much of TeX's memory you used:
- 31825 strings out of 427822
- 570888 string characters out of 3145697
- 828405 words of memory out of 3000000
- 35328 multiletter control sequences out of 15000+200000
+ 31832 strings out of 427822
+ 570982 string characters out of 3145697
+ 823698 words of memory out of 3000000
+ 35335 multiletter control sequences out of 15000+200000
  69997 words of font info for 50 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  68i,12n,73p,10457b,985s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Master-Opgave-assembler.pdf (38 pages).
+Output written on Master-Opgave-assembler.pdf (42 pages).

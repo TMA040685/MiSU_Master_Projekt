@@ -1,4 +1,5 @@
-% Encoding: windows-1252
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
 
 
 @Article{Akkus2007,
@@ -38,13 +39,16 @@
 }
 
 @TechReport{Bernholt2013,
-  author       = {{Bernholt}, Sascha and {R\"onnebeck}, Silke and {Ropohl}, Mathias and {K\"oller}, Olaf and {Parchmann}, Ilka},
-  title        = {Report on current state of the art in formative and summative assessment in IBE in STM - Part I},
-  institution  = {University of Copenhagen},
-  year         = {2013},
-  organization = {ASSIST Me},
-  owner        = {ThomasMellergaard},
-  timestamp    = {2019.02.16},
+  Title                    = {Report on current state of the art in formative and summative assessment in IBE in STM - Part I},
+  Author                   = {{Bernholt}, Sascha and {R\"onnebeck}, Silke and {Ropohl}, Mathias and {K\"oller}, Olaf and {Parchmann}, Ilka},
+  Institution              = {University of Copenhagen},
+  Year                     = {2013},
+
+  Address                  = {K�benhavn},
+
+  Organization             = {ASSIST Me},
+  Owner                    = {ThomasMellergaard},
+  Timestamp                = {2019.02.16}
 }
 
 @Book{Brinkmann2015,
@@ -165,6 +169,27 @@
   Publisher                = {Elsevier {BV}}
 }
 
+@InBook{Greenbowe2005,
+  Title                    = {Introduction to the Science Writing Heuristic},
+  Author                   = {Greenbowe, T.J. and Hand, B.},
+  Chapter                  = {Chemists' Guide to Effective Teaching},
+  Publisher                = {Prentice Hall},
+  Year                     = {2005}
+}
+
+@Article{Hand2007,
+  Title                    = {Using a Science Writing Heuristic to enhance learning outcomes from laboratory activities in seventd-grade science: quantitative and qualitative aspects},
+  Author                   = {Hand, Brian and Wallace, Carolyn W. and Yang, Eun-Mi},
+  Journal                  = {International Journal of Science Education},
+  Year                     = {2004},
+  Number                   = {2},
+  Pages                    = {131 - 149},
+  Volume                   = {26},
+
+  Owner                    = {ThomasMellergaard},
+  Timestamp                = {2019.04.12}
+}
+
 @InBook{Hattie2015,
   Title                    = {{Feedback og Vurdering for l\ae ring}},
   Author                   = {Hattie, John and Timperley, Helen},
@@ -224,20 +249,22 @@
 }
 
 @Article{Kingir2013,
-  author    = {Sevgi Kingir and Omer Geban and Murat Gunel},
-  title     = {Using the Science Writing Heuristic Approach to Enhance Student Understanding in Chemical Change and Mixture},
-  journal   = {Research in Science Education},
-  year      = {2013},
-  volume    = {43},
-  number    = {4},
-  pages     = {1645--1663},
-  month     = {oct},
-  abstract  = {This study investigated the effect of the Science Writing Heuristic (SWH) approach on grade 9 students’ understanding of chemical change and mixture concepts. Four intact classes taught by two chemistry teachers from a Turkish public high school were selected for the study; one class was assigned as the treatment group, and the other class was assigned as the comparison group. Students in the treatment group were instructed by the SWH approach, while those in the comparison group were instructed with traditionally designed chemistry instruction. Tests measuring students’ conceptual understanding in the units of chemical change and mixture were administered as pre- and posttest for both groups. At the end of the instruction, semistructured interviews were conducted with 13 students from the treatment group and eight students from the comparison group. ANCOVA results revealed that the SWH approach was superior to the traditional approach on students’ understanding of chemical change and mixture concepts. Interview results indicated that students in the treatment group demonstrated better scientific understanding of chemical change and mixture concepts compared to those in the comparison group.},
-  doi       = {10.1007/s11165-012-9326-x},
-  file      = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Kingir2012.pdf:PDF},
-  keywords  = {Chemistry education, Conceptual change, Grade 9 students, Science writing heuristic approach},
-  publisher = {Springer Nature},
-  url       = {https://link.springer.com/article/10.1007%2Fs11165-012-9326-x},
+  Title                    = {Using the Science Writing Heuristic Approach to Enhance Student Understanding in Chemical Change and Mixture},
+  Author                   = {Sevgi Kingir and Omer Geban and Murat Gunel},
+  Journal                  = {Research in Science Education},
+  Year                     = {2013},
+
+  Month                    = {oct},
+  Number                   = {4},
+  Pages                    = {1645--1663},
+  Volume                   = {43},
+
+  Abstract                 = {This study investigated the effect of the Science Writing Heuristic (SWH) approach on grade 9 students’ understanding of chemical change and mixture concepts. Four intact classes taught by two chemistry teachers from a Turkish public high school were selected for the study; one class was assigned as the treatment group, and the other class was assigned as the comparison group. Students in the treatment group were instructed by the SWH approach, while those in the comparison group were instructed with traditionally designed chemistry instruction. Tests measuring students’ conceptual understanding in the units of chemical change and mixture were administered as pre- and posttest for both groups. At the end of the instruction, semistructured interviews were conducted with 13 students from the treatment group and eight students from the comparison group. ANCOVA results revealed that the SWH approach was superior to the traditional approach on students’ understanding of chemical change and mixture concepts. Interview results indicated that students in the treatment group demonstrated better scientific understanding of chemical change and mixture concepts compared to those in the comparison group.},
+  Doi                      = {10.1007/s11165-012-9326-x},
+  File                     = {:C\:/Users/Thomas Mellergaard m/Documents/GitHub/MiSU_Master_Projekt/Litteratur/Kingir2012.pdf:PDF},
+  Keywords                 = {Chemistry education, Conceptual change, Grade 9 students, Science writing heuristic approach},
+  Publisher                = {Springer Nature},
+  Url                      = {https://link.springer.com/article/10.1007%2Fs11165-012-9326-x}
 }
 
 @Book{Kolb1984,
@@ -298,23 +325,18 @@
 }
 
 @Article{Peterson1994,
-  author   = {Peterson, Robert A.},
-  title    = {A Meta-analysis of Cronbach's Coefficient Alpha.},
-  journal  = {Journal of Consumer Research},
-  year     = {1994},
-  volume   = {21},
-  number   = {2},
-  pages    = {381-391},
-  month    = sep,
-  abstract = {Despite some limitations, Cronbach's coefficient alpha remains the most widely used measure of scale reliability. The purpose of this article was to empirically document the magnitudes of alpha coefficients obtained in behavioral research, compare these obtained values with guidelines and recommendations set forth by individuals such as Nunnally (1967, 1978), and provide insights into research design characteristics that may influence the size of coefficient alpha. Average reported alpha coefficients ranged from .70 for values and beliefs to .82 for job satisfaction. With few exceptions, there were no substantive relationships between the magnitude of coefficient alpha and the research design characteristics investigated.},
+  Title                    = {A Meta-analysis of Cronbach's Coefficient Alpha.},
+  Author                   = {Peterson, Robert A.},
+  Journal                  = {Journal of Consumer Research},
+  Year                     = {1994},
+
+  Month                    = sep,
+  Number                   = {2},
+  Pages                    = {381-391},
+  Volume                   = {21},
+
+  Abstract                 = {Despite some limitations, Cronbach's coefficient alpha remains the most widely used measure of scale reliability. The purpose of this article was to empirically document the magnitudes of alpha coefficients obtained in behavioral research, compare these obtained values with guidelines and recommendations set forth by individuals such as Nunnally (1967, 1978), and provide insights into research design characteristics that may influence the size of coefficient alpha. Average reported alpha coefficients ranged from .70 for values and beliefs to .82 for job satisfaction. With few exceptions, there were no substantive relationships between the magnitude of coefficient alpha and the research design characteristics investigated.}
 }
 
-@InBook{Greenbowe2005,
-  chapter   = {Chemists' Guide to Effective Teaching},
-  title     = {Introduction to the Science Writing Heuristic},
-  publisher = {Prentice Hall},
-  year      = {2005},
-  author    = {Greenbowe, T.J. and Hand, B.},
-}
+@comment{jabref-meta: databaseType:bibtex;}
 
-@Comment{jabref-meta: databaseType:bibtex;}

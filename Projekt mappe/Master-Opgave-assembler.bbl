@@ -382,6 +382,37 @@ Greenbowe, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Hand%
+, Wallace%
+\BCBL {}\ \BBA {} Yang%
+}{%
+Hand%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+Hand2004}
+\APACinsertmetastar {%
+Hand2004}%
+\begin{APACrefauthors}%
+Hand, B.%
+, Wallace, C\BPBI W.%
+\BCBL {}\ \BBA {} Yang, E\BHBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Using a Science Writing Heuristic to enhance learning
+  outcomes from laboratory activities in seventd-grade science: quantitative
+  and qualitative aspects} {Using a science writing heuristic to enhance
+  learning outcomes from laboratory activities in seventd-grade science:
+  quantitative and qualitative aspects}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Science Education}{26}{2}{131
+  - 149}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hattie%
 \ \BBA {} Timperley%
 }{%
