@@ -9,11 +9,9 @@
 \contentsline {chapter}{\chapternumberline {2}Baggrund}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Læringsteoretisk udgangspunkt}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Teori}{5}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Science Writing Heuristic}{5}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}TAP}{8}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Litteratursøgning}{9}{section.2.3}
-\contentsline {section}{\numberline {2.4}Temaer i litteraturen}{10}{section.2.4}
-\contentsline {section}{\numberline {2.5}Litteraturreview}{11}{section.2.5}
+\contentsline {section}{\numberline {2.3}Litteratursøgning}{10}{section.2.3}
+\contentsline {section}{\numberline {2.4}Temaer i litteraturen}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}Litteraturreview}{12}{section.2.5}
 \contentsline {chapter}{\chapternumberline {3}Metode, design \& data}{17}{chapter.3}
 \contentsline {section}{\numberline {3.1}Empirisk metode}{17}{section.3.1}
 \contentsline {section}{\numberline {3.2}Empirisk design}{17}{section.3.2}
@@ -31,7 +29,7 @@
 \contentsline {section}{\numberline {6.1}Afsnit 1}{25}{section.6.1}
 \contentsline {chapter}{\chapternumberline {7}Perspektivering}{27}{chapter.7}
 \contentsline {section}{\numberline {7.1}Afsnit 1}{27}{section.7.1}
-\contentsline {chapter}{Litteratur}{29}{chapter*.2}
+\contentsline {chapter}{Litteratur}{29}{chapter*.4}
 \changetoapp 
 \contentsline {appendix}{\chapternumberline {A}Science Writing Heuristic eller at skrive for at lære}{33}{appendix.A}
 \contentsline {section}{\numberline {A.1}Stil spørgsmål}{34}{section.A.1}
