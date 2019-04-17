@@ -15,7 +15,7 @@
 	colorlinks = true,
 	citecolor = blue}
 \usepackage[nopar]{lipsum}						% GENERER FYLDTEKST
-\usepackage{showkeys}							% SHOWS THE LABELS OF FIGURES, TABLES, ETC...
+\usepackage[draft]{showlabels}							% SHOWS THE LABELS OF FIGURES, TABLES, ETC...
 \usepackage{graphicx}							% DISPLAY GRAPHICS ETC.
 \usepackage{smartdiagram}						% NEMMEDIAGRAMMER
 \usepackage[natbibapa]{apacite}					% APACITE AND NATBIB
@@ -24,7 +24,7 @@
 \usepackage{fixme}
 \usepackage{soul}								% Huphenable letterspacing
 \usepackage{xcolor}
-\usepackage{wrapfig}
+\usepackage{wrapfig,amsmath,SIunits}
 \linespread{1.5}
 %\usepackage{setspace}
 %\onehalfspacing
@@ -86,7 +86,7 @@
 \author{Thomas M. Amby}
 \parindent 0pt
 
-\newcommand{\eqref}[1]{\vref{eq:#1}}
+\renewcommand{\eqref}[1]{\vref{eq:#1}}
 \newcommand{\firef}[1]{\vref{fig:#1}}
 \newcommand{\tbref}[1]{\vref{tbl:#1}}
 

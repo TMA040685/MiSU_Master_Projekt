@@ -717,4 +717,26 @@ Peterson, R\BPBI A.%
 \APACjournalVolNumPages{Journal of Consumer Research}{21}{2}{381-391}.
 \PrintBackRefs{\CurrentBib}
 
+\bibitem [\protect \citeauthoryear {%
+Toulmin%
+}{%
+Toulmin%
+}{%
+{\protect \APACyear {1958}}%
+}]{%
+Toulmin1958}
+\APACinsertmetastar {%
+Toulmin1958}%
+\begin{APACrefauthors}%
+Toulmin, S\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1958}.
+\newblock
+\APACrefbtitle {The use of argument} {The use of argument}.
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
