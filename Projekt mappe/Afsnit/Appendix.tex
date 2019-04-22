@@ -87,3 +87,118 @@ Elkedel, kaffemaskine, stopur, måleglas, termometer, effektmåler, vægt.
 \section{Opstilling}
 Tegn selv opstillingen eller tag et billede af den.
 
+\section{Udførelse}
+\begin{itemize}
+	\item[1)] {\bfseries Elkeden:}
+	Der afmåles ca. 1,0 kg vand i elkedlen. Effektmåleren sættes i stikkontakten, og elkedlen kobles til effektmåleren. Vandets begyndelsestemperatur $T_{1}$ aflæses. Elkedlen og stopuret tændes samtidig. På effektmåleren aflæses den effekt, hvormed der omsættes elektrisk energi. Når vandet koger, antager i at sluttemperaturen $T_2$ er 100 \celsius, hvilket i noterer i jeres skema. Den forløbne tid $\Delta t$ noteres.
+	\item[2)] {\bfseries Kaffemaskienen:}
+	Målingerne forløber som ved elkedlen. Vandets sluttemperatur er temperaturen af det vand, der er løbet ned i kaffemaskinen. Tidtagningen slutter, når alt vandet er løbet igennem og i aflæser sluttemperaturen $T_2$. På effektmåleren aflæses den effekt, hvormed der omsættes elektrisk energi.
+\end{itemize}
+
+\section{Måleresultater}
+\begin{table}
+\centering
+\caption{pris/kWh = \hspace{5cm} $c$ =}
+\label{tbl:data.forsøg1}
+\begin{tabular}{ @{ } p{3cm}  p{3cm}  p{3cm} @{ } }
+	\toprule[2pt]
+			&	Elkedel	&	Kaffemaskine	\\
+	\midrule[1.2pt]
+	$m (\kilo\gram)$					&			&				\\
+	$T_{1} (\celsius)$					&			&				\\
+	$T_{2} (\celsius)$					&			&				\\
+	$\Delta T (\celsius)$					&			&				\\
+	$\Delta E_{\mathrm{nyt}} (\joule)$		&			&				\\
+	$P (\watt)$						&			&				\\
+	$\Delta t (\second)$					&			&				\\
+	$\Delta E_{\mathrm{til}} (\joule)$		&			&				\\
+	$\eta (\%)$						&			&				\\
+	$\Delta E_{\mathrm{til}} (\kilo\watt\hour)$	&			&				\\
+	Pris (kroner)						&			&				\\
+	\bottomrule[2pt]
+\end{tabular}
+\end{table}
+
+\section{Databehandling}
+\begin{enumerate}
+	\item De tomme rubrikker i skemaet udfyldes og medtages i rapporten. Og der vises eksempler på udregninger for elkedlen i de efterfølgende spørgsmål.
+	\item Udregning af temperaturtilvæksten $\Delta T$.
+	\item Udregning af den udnyttede energi  $\Delta E_{\mathrm{nyt}}$
+	\item Udregning af den tilførte energi $\Delta E_{\mathrm{til}}$
+	\item Udregning af nyttevirkningen $\eta$
+	\item Udregning af den tilførte energi $\Delta E_{\mathrm{til}}$ i \kilo\watt\hour
+	\item Udregning af prisen for at opvarme vandet.
+\end{enumerate}
+Du må naturligvis gerne bruge kaffemaskinen i stedet for elkedlen til at vise eks. på udregninger. Du skal så blot angive det.
+
+\section{Diskussion}
+Diskuter resultaterne. Man kan f.eks. komme ind på følgende spørgsmål:
+\begin{itemize}
+	\item Hvilket af de to apparater udnytter den elektriske energi bedst?
+	\item Hvilke fordele og ulemper kan man nævne ved hvert af de to apparater, når de bruges til at lave \'en liter kaffe?
+	\item Hvad er prisen for den elektriske energi, der omsættes, når man laver én liter kaffe henholdsvis på kaffemaskinen og ved hjælp af elkedlen?
+\end{itemize}
+
+ \section{konklusion}
+
+\chapter{Undersøgelse af diffraktion}
+\label{app:C}
+Hvis man betragter den problemstilling som eleverne i gruppen med elev 4 havde under forsøget med fænomenet diffraktion af laserlys. Så kan det diskuteres om eleverne har de fornødne færdigheder til at kunne foretage en fyldestgørende analyse af problemet i forhold til at frembringe evidens og rygdæknig for en påstand. 
+Udgangspunktet er følgende eksperimentelle opstilling se figur \firef{ops.app}
+\begin{figure}[h!]
+	\centering
+	\begin{tikzpicture}
+		%\draw[very thin, blue!25, step=1mm, anchor=south east] (0,0) grid (12,6);
+		%\draw[blue!50, step=5mm, anchor=south east] (0,0) grid (12,6);
+		%\draw[thick, blue!75, step=10mm, anchor=south east] (0,0) grid (12,6);
+		
+		\draw[thick, black] (7,2.5) arc (0:12:1.9cm);
+		\draw[thick, black] (7.5,2.5) arc (0:23:2.4cm);
+		
+		\filldraw[fill=white,draw=black, thick] (0,2.25) -- (2,2.25) -- (2,2.75) -- (0,2.75) -- cycle;
+		\draw[very thick, red] (2,2.5) -- (12,2.5) node[black,right] {$n = 0$};
+		\draw[very thick, fill=red,draw=red] (12,2.5) circle (1mm);
+		
+		\draw[very thick, red] (5.1,2.5) -- (12,4) node[black,right] {$n = 1$};
+		\draw[very thick, fill=red,draw=red] (12,4) circle (1mm);
+		
+		\draw[very thick, red] (5.1,2.5) -- (12,5.5) node[black,right] {$n = 2$};
+		\draw[very thick, fill=red,draw=red] (12,5.5) circle (1mm);
+		
+		\draw[very thick, draw=black,fill=black] (4.9,1) rectangle (5.1,4) node[above] {Gitter};
+		
+		\node at (6.75,2.75) {$\theta_1$};
+		\node at (7.75,2.75) {$\theta_2$};
+		\node at (1,2.5) {Laser};
+		\draw[very thick, black, <-] (5.1,1.5) -- (8,1.5);
+		\draw[very thick, black, ->] (9,1.5) -- (12,1.5);
+		\node at (8.5,1.5) {$L$};
+		\draw[very thick, black, <-] (12,2.6) -- (12,3);
+		\draw[very thick, black, ->] (12,3.5) -- (12,3.9);
+		\node at (12,3.24) {$S_1$};
+	\end {tikzpicture}
+	\caption{Forsøgsopstillingen til eksperimenterne som eleverne har udført dem.}
+	\label{fig:ops.app}
+\end{figure}
+
+Her får eleverne brug for at anvende en tangensrelation til at bestemme afbøjningsvinklen $\theta_n$ til den $n$'te orden. 
+\begin{equation}
+	\theta_n = \tan^{-1}\left(\frac{S_n}{L}\right)
+\end{equation}
+her er $S_n$ afstanden mellem 0'te og $n$'te orden i interferensmønstret mens $L$ er afstanden mellem gitteret og målepunktet som vist på figur \firef{ops.app}. Denne værdi for vinklen indsættes på vinklens plads i gitterligningen.
+\begin{equation}
+	d\cdot\sin\theta_n = n\cdot \lambda
+\end{equation}
+hvor $d$ er gitterkonstanten, $n$ er ordensnummeret dvs et positivt heltal og $\lambda$ er laserens bølgelængde. Nu indsættes udtrykket for afbøjningsvinklen $\theta_n$ i ligningen herover of der isoleres for afstanden mellem ordenerne herved finder man følgende udtryk:
+\begin{equation}
+	S_n = \tan\left(\sin^{-1}\left(\frac{n\cdot\lambda}{d}\right)\right)\cdot L
+\end{equation}
+Modelleres dette udtryk i et matematik program med passende valg af $n$, $d$, $\lambda$ og $L$ kan man få figur \firef{eviden.app}. 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth]{Figs/test}
+	\caption{Her ses en teoretisk modelleret udgave af figur \firef{evidens.jacob} som gruppen med elev 4 frambragte eksperiementelt på baggrund af de data de havde til rådighed.}
+	\label{fig:eviden.app}
+\end{figure}
+
+Her illusrerer den blå linje et gitter med 600 linjer pr mm, den grønne et gitter med 300 linjer pr mm mens den røde viser et gitter med 100 linjer pr mm. Heraf ses det at gruppen med elev 4 faktisk har ramt den overordnede trent ret godt, omend deres afstande er temmelig meget for små.

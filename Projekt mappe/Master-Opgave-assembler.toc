@@ -21,24 +21,33 @@
 \contentsline {section}{\numberline {4.1}Spørgeskemaet}{23}{section.4.1}
 \contentsline {section}{\numberline {4.2}Samtale om motivation for skriftlighed}{26}{section.4.2}
 \contentsline {section}{\numberline {4.3}Afleveringer}{26}{section.4.3}
-\contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{29}{chapter.5}
-\contentsline {section}{\numberline {5.1}Afsnit 1}{29}{section.5.1}
-\contentsline {chapter}{\chapternumberline {6}Konklusion}{31}{chapter.6}
-\contentsline {section}{\numberline {6.1}Afsnit 1}{31}{section.6.1}
-\contentsline {chapter}{\chapternumberline {7}Perspektivering}{33}{chapter.7}
-\contentsline {section}{\numberline {7.1}Afsnit 1}{33}{section.7.1}
-\contentsline {chapter}{Litteratur}{35}{chapter*.10}
+\contentsline {section}{\numberline {4.4}Opsummering}{33}{section.4.4}
+\contentsline {chapter}{\chapternumberline {5}Diskussion og Opsummering}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Afsnit 1}{35}{section.5.1}
+\contentsline {chapter}{\chapternumberline {6}Konklusion}{37}{chapter.6}
+\contentsline {section}{\numberline {6.1}Afsnit 1}{37}{section.6.1}
+\contentsline {chapter}{\chapternumberline {7}Perspektivering}{39}{chapter.7}
+\contentsline {section}{\numberline {7.1}Afsnit 1}{39}{section.7.1}
+\contentsline {chapter}{Litteratur}{41}{chapter*.13}
 \changetoapp 
-\contentsline {appendix}{\chapternumberline {A}Science Writing Heuristic eller at skrive for at lære}{39}{appendix.A}
-\contentsline {section}{\numberline {A.1}Stil spørgsmål}{40}{section.A.1}
-\contentsline {section}{\numberline {A.2}Forberedelse af undersøgelse}{40}{section.A.2}
-\contentsline {section}{\numberline {A.3}Lav forudsigelser}{40}{section.A.3}
-\contentsline {section}{\numberline {A.4}Indsamling af empiri}{41}{section.A.4}
-\contentsline {section}{\numberline {A.5}Analyse af empiri}{41}{section.A.5}
-\contentsline {section}{\numberline {A.6}Fortolkning af evidens}{41}{section.A.6}
-\contentsline {section}{\numberline {A.7}Fremstilling af påstande}{42}{section.A.7}
-\contentsline {section}{\numberline {A.8}Reflektion over undersøgelsen}{42}{section.A.8}
-\contentsline {section}{\numberline {A.9}Noter}{42}{section.A.9}
-\contentsline {appendix}{\chapternumberline {B}Nyttevirkning af elkedel og kaffemaskine}{43}{appendix.B}
-\contentsline {section}{\numberline {B.1}Formål}{43}{section.B.1}
-\contentsline {section}{\numberline {B.2}Teori}{43}{section.B.2}
+\contentsline {appendix}{\chapternumberline {A}Science Writing Heuristic eller at skrive for at lære}{45}{appendix.A}
+\contentsline {section}{\numberline {A.1}Stil spørgsmål}{46}{section.A.1}
+\contentsline {section}{\numberline {A.2}Forberedelse af undersøgelse}{46}{section.A.2}
+\contentsline {section}{\numberline {A.3}Lav forudsigelser}{46}{section.A.3}
+\contentsline {section}{\numberline {A.4}Indsamling af empiri}{47}{section.A.4}
+\contentsline {section}{\numberline {A.5}Analyse af empiri}{47}{section.A.5}
+\contentsline {section}{\numberline {A.6}Fortolkning af evidens}{47}{section.A.6}
+\contentsline {section}{\numberline {A.7}Fremstilling af påstande}{48}{section.A.7}
+\contentsline {section}{\numberline {A.8}Reflektion over undersøgelsen}{48}{section.A.8}
+\contentsline {section}{\numberline {A.9}Noter}{48}{section.A.9}
+\contentsline {appendix}{\chapternumberline {B}Nyttevirkning af elkedel og kaffemaskine}{49}{appendix.B}
+\contentsline {section}{\numberline {B.1}Formål}{49}{section.B.1}
+\contentsline {section}{\numberline {B.2}Teori}{49}{section.B.2}
+\contentsline {section}{\numberline {B.3}Apparatur}{50}{section.B.3}
+\contentsline {section}{\numberline {B.4}Opstilling}{50}{section.B.4}
+\contentsline {section}{\numberline {B.5}Udførelse}{50}{section.B.5}
+\contentsline {section}{\numberline {B.6}Måleresultater}{51}{section.B.6}
+\contentsline {section}{\numberline {B.7}Databehandling}{51}{section.B.7}
+\contentsline {section}{\numberline {B.8}Diskussion}{51}{section.B.8}
+\contentsline {section}{\numberline {B.9}konklusion}{52}{section.B.9}
+\contentsline {appendix}{\chapternumberline {C}Undersøgelse af diffraktion}{53}{appendix.C}

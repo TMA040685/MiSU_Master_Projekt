@@ -70,6 +70,31 @@ Atasoy, {\c{S}}.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Benoni%
+\ \BBA {} Elvekjær%
+}{%
+Benoni%
+\ \BBA {} Elvekjær%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Benoni2010}
+\APACinsertmetastar {%
+Benoni2010}%
+\begin{APACrefauthors}%
+Benoni, T.%
+\BCBT {}\ \BBA {} Elvekjær, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle {FysikABbogen 1} {Fysikabbogen 1}.
+\newblock
+\APACaddressPublisher{}{Systime A/S}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Bernholt}%
 , {R\"onnebeck}%
 , {Ropohl}%
