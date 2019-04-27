@@ -95,69 +95,6 @@ Benoni, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-{Bernholt}%
-, {R\"onnebeck}%
-, {Ropohl}%
-, {K\"oller}%
-\BCBL {}\ \BBA {} {Parchmann}%
-}{%
-{Bernholt}%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2013}}%
-}]{%
-Bernholt2013}
-\APACinsertmetastar {%
-Bernholt2013}%
-\begin{APACrefauthors}%
-{Bernholt}, S.%
-, {R\"onnebeck}, S.%
-, {Ropohl}, M.%
-, {K\"oller}, O.%
-\BCBL {}\ \BBA {} {Parchmann}, I.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013}{}{}.
-\newblock
-\APACrefbtitle {Report on current state of the art in formative and summative
-  assessment in IBE in STM - Part I} {Report on current state of the art in
-  formative and summative assessment in ibe in stm - part i}\
-  \APACbVolEdTR{}{\BTR{}}.
-\newblock
-\APACaddressInstitution{K�benhavn}{University of Copenhagen}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Brinkmann%
-\ \protect \BOthers {.}}{%
-Brinkmann%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2015}}%
-}]{%
-Brinkmann2015}
-\APACinsertmetastar {%
-Brinkmann2015}%
-\begin{APACrefauthors}%
-Brinkmann, S.%
-, Tanggaard, L.%
-, Hastrup, K.%
-, Szulevicz, T.%
-, Raudaskoski, P.%
-, Nielsen, B\BPBI S.%
-\BDBL {}Denzin, N\BPBI K.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2015}.
-\newblock
-\APACrefbtitle {Kvalitative Metoder - En Grundbog} {Kvalitative metoder - en
-  grundbog}\ (\PrintOrdinal{2}\ \BEd, \BVOL~3; S.~Brinkmann\ \BBA {}
-  L.~Tanggaard, \BEDS{}).
-\newblock
-\APACaddressPublisher{København}{Hans Reitzels Forlag}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Buhl%
 }{%
 Buhl%
@@ -212,75 +149,6 @@ Burke, K.%
 \begin{APACrefURL}
   \url{https://www.jstor.org/stable/42992552?seq=1#page_scan_tab_contents}
   \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Celik%
-, Onder%
-\BCBL {}\ \BBA {} Silay%
-}{%
-Celik%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2011}}%
-}]{%
-Celik2011}
-\APACinsertmetastar {%
-Celik2011}%
-\begin{APACrefauthors}%
-Celik, P.%
-, Onder, F.%
-\BCBL {}\ \BBA {} Silay, I.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{{\APACmonth{12}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The effects of problem-based learning on the students'
-  success in physics course} {The effects of problem-based learning on the
-  students' success in physics course}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Procedia - Social and Behavioral
-  Sciences}{28}{}{656-660}.
-\newblock
-\begin{APACrefURL}
-  \url{https://www.sciencedirect.com/science/article/pii/S1877042811025638}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.sbspro.2011.11.124} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Crippen%
-, Archambault%
-\BCBL {}\ \BBA {} Kern%
-}{%
-Crippen%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2012}}%
-}]{%
-Crippen2012}
-\APACinsertmetastar {%
-Crippen2012}%
-\begin{APACrefauthors}%
-Crippen, K\BPBI J.%
-, Archambault, L\BPBI M.%
-\BCBL {}\ \BBA {} Kern, C\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{{\APACmonth{06}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The Nature of Laboratory Learning Experiences in
-  Secondary Science Online} {The nature of laboratory learning experiences in
-  secondary science online}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Research in Science Education}{43}{3}{1029-1050}.
-\newblock
-\begin{APACrefURL}
-  \url{https://asu.pure.elsevier.com/en/publications/the-nature-of-laboratory-learning-experiences-in-secondary-scienc}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1007/s11165-012-9301-6} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -376,34 +244,6 @@ Erkol, M.%
   Sciences}{2}{2}{2310--2314}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.sbspro.2010.03.327} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Etkina%
-\ \BBA {} {Van Heuvelen}%
-}{%
-Etkina%
-\ \BBA {} {Van Heuvelen}%
-}{%
-{\protect \APACyear {2007}}%
-}]{%
-Etkina2007}
-\APACinsertmetastar {%
-Etkina2007}%
-\begin{APACrefauthors}%
-Etkina, E.%
-\BCBT {}\ \BBA {} {Van Heuvelen}, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Investigative Science Learning Environment - A Science
-  Process Approach to Learning Physics} {Investigative science learning
-  environment - a science process approach to learning physics}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Research-Based Reform of University Physics}
-  {Research-based reform of university physics}\ (\BVOL~1).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -515,34 +355,6 @@ Hodson, D.%
   {Et kritisk blik p\aa~ praktisk arbejde i naturfagene}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{MONA}{}{3}{7 - 20}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Huang%
-\ \BBA {} Kalman%
-}{%
-Huang%
-\ \BBA {} Kalman%
-}{%
-{\protect \APACyear {2012}}%
-}]{%
-Huang2012}
-\APACinsertmetastar {%
-Huang2012}%
-\begin{APACrefauthors}%
-Huang, X.%
-\BCBT {}\ \BBA {} Kalman, C\BPBI S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{{\APACmonth{10}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {A Case study on Reflective Writing} {A case study on
-  reflective writing}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of College Science Teaching}{42}{1}{92-99}.
-\newblock
-\begin{APACrefURL} \url{http://www.jstor.org/stable/43748411} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -668,53 +480,6 @@ Krogh, L\BPBI B.%
   \BED{}).
 \newblock
 \APACaddressPublisher{}{Frydenlund}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Kruse%
-}{%
-Kruse%
-}{%
-{\protect \APACyear {2013}}%
-}]{%
-Kruse2013}
-\APACinsertmetastar {%
-Kruse2013}%
-\begin{APACrefauthors}%
-Kruse, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013}{{\APACmonth{06}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Hvor effektive er undersøgelsesbaserede strategier i
-  naturfagsundervisningen?} {Hvor effektive er undersøgelsesbaserede
-  strategier i naturfagsundervisningen?}{\BBCQ}
-\newblock
-\APACjournalVolNumPages{MONA - Matematik og Naturfagsdidaktik}{2}{}{24 - 48}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-{Lawson}%
-}{%
-{Lawson}%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-Lawson2010}
-\APACinsertmetastar {%
-Lawson2010}%
-\begin{APACrefauthors}%
-{Lawson}, A\BPBI E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2010}.
-\newblock
-\APACrefbtitle {Teaching Inquiry science in middle and secondary schools}
-  {Teaching inquiry science in middle and secondary schools}.
-\newblock
-\APACaddressPublisher{}{SAGE Publications, Inc.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
