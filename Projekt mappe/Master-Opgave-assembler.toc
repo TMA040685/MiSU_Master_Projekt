@@ -22,11 +22,11 @@
 \contentsline {section}{\numberline {4.1}Spørgeskemaet}{25}{section.4.1}
 \contentsline {section}{\numberline {4.2}Samtale om motivation for skriftlighed}{28}{section.4.2}
 \contentsline {section}{\numberline {4.3}Afleveringer}{30}{section.4.3}
-\contentsline {section}{\numberline {4.4}Opsummering}{37}{section.4.4}
+\contentsline {section}{\numberline {4.4}Opsummering}{38}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}Diskussion og opsummering}{39}{chapter.5}
 \contentsline {section}{\numberline {5.1}Hvordan påvirkes 1.g elever af IBSE{} og SWH?}{39}{section.5.1}
 \contentsline {section}{\numberline {5.2}Faglig motivation}{41}{section.5.2}
-\contentsline {section}{\numberline {5.3}Skriftlige kompetencer}{41}{section.5.3}
+\contentsline {section}{\numberline {5.3}Skriftlige kompetencer}{42}{section.5.3}
 \contentsline {chapter}{\chapternumberline {6}Konklusion}{43}{chapter.6}
 \contentsline {section}{\numberline {6.1}Perspektivering}{44}{section.6.1}
 \contentsline {chapter}{Litteratur}{47}{chapter*.18}
