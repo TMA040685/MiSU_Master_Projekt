@@ -247,6 +247,34 @@ Erkol, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Etkina%
+\ \BBA {} {Van Heuvelen}%
+}{%
+Etkina%
+\ \BBA {} {Van Heuvelen}%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Etkina2007}
+\APACinsertmetastar {%
+Etkina2007}%
+\begin{APACrefauthors}%
+Etkina, E.%
+\BCBT {}\ \BBA {} {Van Heuvelen}, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Investigative Science Learning Environment - A Science
+  Process Approach to Learning Physics} {Investigative science learning
+  environment - a science process approach to learning physics}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Research-Based Reform of University Physics}
+  {Research-based reform of university physics}\ (\BVOL~1).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Greenbowe%
 \ \BBA {} Hand%
 }{%
