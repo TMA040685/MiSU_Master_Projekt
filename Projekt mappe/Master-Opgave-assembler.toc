@@ -28,10 +28,10 @@
 \contentsline {section}{\numberline {5.2}Faglig motivation}{41}{section.5.2}
 \contentsline {section}{\numberline {5.3}Skriftlige kompetencer}{42}{section.5.3}
 \contentsline {chapter}{\chapternumberline {6}Konklusion}{43}{chapter.6}
-\contentsline {section}{\numberline {6.1}Perspektivering}{44}{section.6.1}
+\contentsline {section}{\numberline {6.1}Perspektivering}{45}{section.6.1}
 \contentsline {chapter}{Litteratur}{47}{chapter*.18}
 \changetoapp 
-\contentsline {appendix}{\chapternumberline {A}Science Writing Heuristic eller at skrive for at lære}{51}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}Science Writing Heuristic}{51}{appendix.A}
 \contentsline {section}{\numberline {A.1}Stil spørgsmål}{52}{section.A.1}
 \contentsline {section}{\numberline {A.2}Forberedelse af undersøgelse}{52}{section.A.2}
 \contentsline {section}{\numberline {A.3}Lav forudsigelser}{52}{section.A.3}
